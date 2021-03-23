@@ -1,0 +1,15 @@
+{
+  "name": "js-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Ranjith Kumar",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/preset-env": "^7.13.12",
+    "jest": "^26.6.3"
+  }
+}
