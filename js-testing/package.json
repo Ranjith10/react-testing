@@ -4,12 +4,13 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest --coverage"
   },
   "author": "Ranjith Kumar",
   "license": "ISC",
   "devDependencies": {
     "@babel/preset-env": "^7.13.12",
+    "@types/jest": "^26.0.21",
     "jest": "^26.6.3"
   }
 }
