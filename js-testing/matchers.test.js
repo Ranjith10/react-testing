@@ -51,5 +51,5 @@ test('the array contains "react"', () => {
 test('Test for exception', () => {
     expect(() => throwError()).toThrow()
     expect(() => throwError()).toThrow(Error)
-    expect(() => throwError()).toThrow("An Error has occured")
+    expect(() => throwError()).toThrow("An error has occured")
 })
