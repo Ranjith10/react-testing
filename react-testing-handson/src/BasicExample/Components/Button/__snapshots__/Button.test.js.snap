@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snapshot testing sample 1`] = `
+Array [
+  <div>
+    React Testings
+  </div>,
+  <button
+    data-testid="button"
+  >
+    Testing React
+  </button>,
+]
+`;

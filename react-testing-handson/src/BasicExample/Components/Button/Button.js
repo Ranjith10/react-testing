@@ -4,9 +4,12 @@ import './Button.css'
 
 const Button = ({label}) => {
     return (
+        <>
+        <div>React Testings</div>        
         <button data-testid='button'>
             {label}            
         </button>
+        </>
     )
 }
 
